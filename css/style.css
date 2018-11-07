@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width:100%;
+    height:1300px;
+    background-image:url("../images/Cars.jpg");  
+    opacity: 0.5;
+}
+h1{
+
+    text-align: center;
+    padding-top:3%;
+    color: blueviolet;
+    font-size:50px;
+}
+#car-form{
+    font-size: 40px;
+    text-align: center;
+    margin-top:5%;
+    color:red;
+}
